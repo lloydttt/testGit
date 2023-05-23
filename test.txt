@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL.
 New test.
 test restore
 main test
-bug test 
+bug test done
